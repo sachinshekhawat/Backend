@@ -30,10 +30,17 @@ Also Consist of AI ChatBot Where user can chat in their terms and Conditions tha
                3. end can be of any three end points (i) getusers - > to get all users which are in community  (ii)login for authentication   (iii)updatePic to update the profile pic 
               
 
+(III) DeployMent : 
+
+             1. Download Android Studio 
+             2. Through Version control paste the link and wait while load 
+             3. Necessary - flutter pre installation is mandatory
+             4. Then run the application through Enulator Device inside the Android Studio
 
 
-(III) MyDetails :  
+(IV) MyDetails :  
 
                          Name - Sachin Shekhawat
                          Adm No - 21JE0796
+                         Branch - Computer Science and Engineering
                          Institute - Indian Institute of Technology(Indian School of Mines) Dhanbad
