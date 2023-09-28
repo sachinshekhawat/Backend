@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107130246683",
+    "project_id": "gochitchat-90be8",
+    "storage_bucket": "gochitchat-90be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107130246683:android:67722a5eeb411770708abe",
+        "android_client_info": {
+          "package_name": "com.example.go_chit_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQhDBUjFJUEuFADPkxzy_em0aAsIJtRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
