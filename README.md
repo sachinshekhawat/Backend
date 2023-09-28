@@ -1,4 +1,4 @@
- 
+Main Branch -> Backend Part,System Design  , Master Branch -> Frontend Part(Flutter) 
                         
                                                   ChatBeyondYou(CBY)
 
