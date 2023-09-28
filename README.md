@@ -32,6 +32,12 @@ Also Consist of AI ChatBot Where user can chat in their terms and Conditions tha
 
 (III) DeployMent : 
 
+   APK  link --> 
+   
+             https://drive.google.com/drive/folders/1IfU_06KbLWTttKnnWhxRZBXoL7GN6YsI?usp=sharing
+
+   OR Second Way
+
              1. Download Android Studio 
              2. Through Version control paste the link and wait while load 
              3. Necessary - flutter pre installation is mandatory
